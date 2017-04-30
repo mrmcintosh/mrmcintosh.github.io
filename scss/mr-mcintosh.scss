@@ -3,6 +3,7 @@ $grey-mute: #777777;
 // $grey-background: #F7F7F7;
 $lead-type: 1.60rem;
 
+
 @mixin img-responsive {
   max-width:100%;
   height:auto;
@@ -41,6 +42,7 @@ body {
 .lead{
   font-size: $lead-type;
 }
+
 i {
   font-size:1.5em;
 }
@@ -406,7 +408,9 @@ a:hover, a:active, .skillset {
   .footer-hr {
     margin-top: 1.6rem;
   }
+
  }
+
 
 // Medium devices (tablets, 768px and up)
 // @media (min-width: 768px) {
