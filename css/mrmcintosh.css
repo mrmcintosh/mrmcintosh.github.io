@@ -42,27 +42,28 @@ a {
 
 /* line 33, /Users/user/mrmcintosh.github.io/scss/mrmcintosh.scss */
 .lead {
+  font-weight: 500;
   font-size: 1.375rem;
   line-height: 1.875rem;
 }
 
-/* line 38, /Users/user/mrmcintosh.github.io/scss/mrmcintosh.scss */
+/* line 39, /Users/user/mrmcintosh.github.io/scss/mrmcintosh.scss */
 .current-info, .more-info {
   padding-top: 1rem;
 }
 
-/* line 46, /Users/user/mrmcintosh.github.io/scss/mrmcintosh.scss */
+/* line 47, /Users/user/mrmcintosh.github.io/scss/mrmcintosh.scss */
 .side-bar h5, .side-bar h6 {
   color: #50e3c2;
 }
 
-/* line 50, /Users/user/mrmcintosh.github.io/scss/mrmcintosh.scss */
+/* line 51, /Users/user/mrmcintosh.github.io/scss/mrmcintosh.scss */
 .side-bar ul {
   list-style: none;
   padding: 0;
 }
 
-/* line 55, /Users/user/mrmcintosh.github.io/scss/mrmcintosh.scss */
+/* line 56, /Users/user/mrmcintosh.github.io/scss/mrmcintosh.scss */
 .side-bar .links li a {
   padding-bottom: 2px;
   background: linear-gradient(to right, #50e3c2 0%, #50e3c2 50%, transparent 50%, transparent 100%);
@@ -73,37 +74,37 @@ a {
   padding-top: 10px;
 }
 
-/* line 64, /Users/user/mrmcintosh.github.io/scss/mrmcintosh.scss */
+/* line 65, /Users/user/mrmcintosh.github.io/scss/mrmcintosh.scss */
 .side-bar .links a {
   position: absolute;
 }
 
-/* line 68, /Users/user/mrmcintosh.github.io/scss/mrmcintosh.scss */
+/* line 69, /Users/user/mrmcintosh.github.io/scss/mrmcintosh.scss */
 .side-bar .links a:hover {
   background: none;
   color: #555;
 }
 
-/* line 72, /Users/user/mrmcintosh.github.io/scss/mrmcintosh.scss */
+/* line 73, /Users/user/mrmcintosh.github.io/scss/mrmcintosh.scss */
 .side-bar .contact {
   position: absolute;
   padding-top: 2rem;
   margin-bottom: 3rem;
 }
 
-/* line 76, /Users/user/mrmcintosh.github.io/scss/mrmcintosh.scss */
+/* line 77, /Users/user/mrmcintosh.github.io/scss/mrmcintosh.scss */
 .side-bar .contact a {
   text-decoration: underline !important;
 }
 
-/* line 79, /Users/user/mrmcintosh.github.io/scss/mrmcintosh.scss */
+/* line 80, /Users/user/mrmcintosh.github.io/scss/mrmcintosh.scss */
 .side-bar .contact a:hover {
   color: #555;
   text-decoration: none !important;
 }
 
 @media (min-width: 768px) {
-  /* line 98, /Users/user/mrmcintosh.github.io/scss/mrmcintosh.scss */
+  /* line 99, /Users/user/mrmcintosh.github.io/scss/mrmcintosh.scss */
   .lead {
     font-size: 1.625rem;
     line-height: 2.125rem;
