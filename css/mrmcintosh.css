@@ -106,6 +106,7 @@ a {
 @media (min-width: 768px) {
   /* line 99, /Users/user/mrmcintosh.github.io/scss/mrmcintosh.scss */
   .lead {
+    font-weight: 500;
     font-size: 1.625rem;
     line-height: 2.125rem;
   }
